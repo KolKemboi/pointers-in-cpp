@@ -5,6 +5,4 @@ int main(){
 
     std::cout << arr << std::endl;
     std::cout << &arr[0] << std::endl;
-
-    for 
 }
